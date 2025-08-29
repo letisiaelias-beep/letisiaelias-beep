@@ -34,7 +34,7 @@
 ---
 
 ### 📂 Featured Projects
-🚧 *Coming soon!* – I’ll be uploading projects as I progress in my ALX journey.  
+🚧 *Coming soon!* – I’ll be uploading projects as I progress in my software engineering journey.  
 - **bash-scripting-basics** – beginner-friendly scripts  
 - **portfolio-website** – my personal web portfolio  
 - **frontend-mini-projects** – practice apps with HTML/CSS/JS  
@@ -53,5 +53,5 @@
 
 ---
 
-✨ *“Consistent learning + practice = growth.”* 🚀
+✨ *“Consistent learning + practice + resilience = growth.”* 🚀
 
