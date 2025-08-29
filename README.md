@@ -41,20 +41,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LetisiaNjoka&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetisiaNjoka&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/letisia-njoka-48b136277/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:letisia@example.com">
+  <a href="mailto:letisiaelias@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
