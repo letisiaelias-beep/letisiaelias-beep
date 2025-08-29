@@ -1,4 +1,5 @@
-# Hi there 👋, I’m Letisia  
+# Hi there 👋 
+## I am Letisia  
 
 🌱 Currently learning **Frontend Development** with [ALX Africa](https://www.alxafrica.com/)  
 💻 Practicing:  
