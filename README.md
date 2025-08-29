@@ -1,6 +1,8 @@
 # Hi there 👋 
 ## I am Letisia  
 
+<img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://github.com/account)" width="150" style="border-radius: 50%;" alt="Letisia Profile Photo" align="left"/>  
+
 🌱 Currently learning **Frontend Development** with [ALX Africa](https://www.alxafrica.com/)  
 💻 Practicing:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -12,22 +14,5 @@
 
 🚀 Passionate about building **user-friendly and responsive web experiences**  
 🎯 Goal: Grow into a well-rounded Frontend Developer with solid system thinking  
-
----
-
-### 📚 Currently Exploring
-- Frontend tools & frameworks (React, Next.js, TypeScript)  
-- Bash scripting for automation  
-- Version control with Git/GitHub  
-
----
-
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letisia-njoka-48b136277/)  
-
----
-
-### ✨ Fun Fact  
-As a **Visual–ISTJ learner**, I learn best when I can see how pieces connect — like pipelines flowing step by step into each other.  
 
 ---
