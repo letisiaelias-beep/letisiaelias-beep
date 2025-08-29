@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## I am Letisia  
 
-<img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://github.com/account)" width="150" style="border-radius: 50%;" alt="Letisia Profile Photo" align="left"/>  
+<img src="https://avatars.githubusercontent.com/u/227259628?s=400&u=131a62761e8907877804615f9978daf9744718b4&v=4" style="border-radius: 50%;" alt="Letisia Profile Photo" align="left"/>  
 
 🌱 Currently learning **Frontend Development** with [ALX Africa](https://www.alxafrica.com/)  
 💻 Practicing:  
